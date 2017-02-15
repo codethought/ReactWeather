@@ -1,8 +1,9 @@
-My code from the Udemy reactjs course.. where else am I going to stash it to move between two machines?
+Simple Boilerplate for creating React applications from scratch.
 
 Prerequistes: Make sure to run the following before you try to start the server:
 
 ```bash
+npm install -g webpack@1.14.0 
 npm install
 webpack
 ```
