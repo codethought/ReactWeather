@@ -1,9 +1,9 @@
-Simple Boilerplate for creating React applications from scratch.
+ReactWeather - started as a fork of ReactBoilerplate. 
 
 Prerequistes: Make sure to run the following before you try to start the server:
 
 ```bash
-npm install -g webpack@1.14.0 
+npm install -g webpack@1.14.0
 npm install
 webpack
 ```
