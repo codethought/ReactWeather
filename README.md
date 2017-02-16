@@ -1,4 +1,4 @@
-ReactWeather - started as a fork of ReactBoilerplate. 
+ReactWeather - started as a fork of ReactBoilerplate. from the UDemy course on React
 
 Prerequistes: Make sure to run the following before you try to start the server:
 
